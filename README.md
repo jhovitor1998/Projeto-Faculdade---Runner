@@ -20,7 +20,7 @@ O Sistema Runner tem como objetivo desenvolver uma aplicação prática, aplican
 ---
 
 ## 🛠️ Tecnologias (até agora)
-- Java (JDK 21)
+- Java (JDK 21) - GO
 - Git e GitHub
 
 ---
